@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @suryakant singh
 - 👀 I’m interested in devlopement 
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning java html,css javacript react
 - 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me on linkedin 
+- 📫 How to reach me on linkedin
+-  suryakant singh
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
